@@ -10,7 +10,7 @@ Scoops:
 2. 
     - Custom Font: Jost from Google
     - Audio via Youtube to play songs from the movie
-    - HTML Button: The mahjong tile, plane on the watch now page, fly back home button on the 404 page, watch now button.
+    - HTML Button: The mahjong tile, plane on the watch now page, fly back home button on the 404 page.
 3. 
     - CSS hover feature for the fly back home button on 404 page.
     - Footer with 3 pages linked (Home,Cast, Watch Now + Special Link)
