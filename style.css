@@ -42,6 +42,11 @@ a{
   text-decoration: none;
   color: goldenrod;
 }
+p{
+  font-family:Jost;
+  color: goldenrod;
+  position: relative;
+}
 header{
   padding-bottom: 0;
   margin-bottom: 0;
