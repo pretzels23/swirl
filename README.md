@@ -1,6 +1,7 @@
 This is a simple webiste inspired by Crazy Rich Asians!!  
 Favicon: Mahjong Tile  
 Title: Crazy Hot Asians
+
 Background: movie poster background
 
 3 html pages: cast, main, watch now  
